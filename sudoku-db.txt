@@ -1,0 +1,26 @@
+4x4 baDC DcbA CBAd aDCB
+4x4 aBcd DcAB bADC CDBa
+6x6 FeBDCa CAdfBe dCFAeB aBECFd BdcEAF EfAbdC
+6x6 eCdBAF fABDce abFCED CdEfBA BFaEdc dEcAfB
+8x8 BfEcdHGa dHAGecFb EBGfHDAB CaDHFgBe ADhbGECF FgCEABhd HCFdBaEG GebaCfDh 
+8x8 HEGCafbD fADBCEgh BgaEhCDf DHCFgbAe GbehDAfC ACFdEgHB CFhaBDeG eDbGFHcA
+9x9 gbcHDFaei fAEcIbDGh hDIGaEFCb CgHfedIbA AIdbHgcFE BeFicaHdG eFADgIBHc dHGaBCEIf icbEFHgad
+9x9 CBGaeHiDF FAidcGEHB eDHIFbGac AHfeGdCbi dcBFhIAeg igEcBadFH gfDbACHIe HEAGifbCD BIcHdefGA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
